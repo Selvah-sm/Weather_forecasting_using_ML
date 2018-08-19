@@ -1,0 +1,160 @@
+REPORT:
+
+
+
+
+
+						Welcome to Weather Prediction
+
+
+1.Predict Bangalore's Weather  2.Predict Mumbai's Weather  3.Predict Delhi's Weather  4.Predict Chennai's Weather  5.Predict Kolkata's Weather  6.Exit
+Enter the choice to Predict Weather : 
+3
+1.Avg Temp  2.Total Rainfall  3.Avg Windspeed  4.Number of days with rain  5.Number of days with Fog  6.Exit
+Enter the choice of target data : 
+1
+Few Predicted value for the test case : 
+[[ 24.8466677 ]
+ [ 24.9633466 ]
+ [ 24.82333192]
+ [ 24.87000348]
+ [ 24.98668238]
+ [ 24.77666036]
+ [ 24.89333926]
+ [ 24.79999614]
+ [ 24.90500715]
+ [ 24.7299888 ]
+ [ 25.02168605]
+ [ 24.83499981]
+ [ 25.06835761]
+ [ 24.97501449]
+ [ 25.0800255 ]
+ [ 24.81166403]
+ [ 24.67164935]
+ [ 24.95167871]
+ [ 24.92834293]]
+Enter the year to predict the value : 2019
+25.4452347084
+
+1.Predict Bangalore's Weather  2.Predict Mumbai's Weather  3.Predict Delhi's Weather  4.Predict Chennai's Weather  5.Predict Kolkata's Weather  6.Exit
+Enter the choice to Predict Weather : 
+3
+1.Avg Temp  2.Total Rainfall  3.Avg Windspeed  4.Number of days with rain  5.Number of days with Fog  6.Exit
+Enter the choice of target data : 
+2
+Few Predicted value for the test case : 
+[[ 703.60421763]
+ [ 730.65117703]
+ [ 698.19482575]
+ [ 709.01360951]
+ [ 736.06056891]
+ [ 687.376042  ]
+ [ 714.42300139]
+ [ 692.78543388]
+ [ 717.12769733]
+ [ 676.55725824]
+ [ 744.17465672]
+ [ 700.89952169]
+ [ 754.99344048]
+ [ 733.35587297]
+ [ 757.69813642]
+ [ 695.49012981]
+ [ 663.03377854]
+ [ 727.94648109]
+ [ 722.53708921]]
+Enter the year to predict the value : 2020
+727.812274866
+
+
+1.Predict Bangalore's Weather  2.Predict Mumbai's Weather  3.Predict Delhi's Weather  4.Predict Chennai's Weather  5.Predict Kolkata's Weather  6.Exit
+Enter the choice to Predict Weather : 
+3
+1.Avg Temp  2.Total Rainfall  3.Avg Windspeed  4.Number of days with rain  5.Number of days with Fog  6.Exit
+Enter the choice of target data : 
+3
+Few Predicted value for the test case : 
+[[ 5.59744234]
+ [ 5.44207008]
+ [ 5.62851679]
+ [ 5.56636789]
+ [ 5.41099563]
+ [ 5.69066569]
+ [ 5.53529344]
+ [ 5.65959124]
+ [ 5.51975621]
+ [ 5.75281459]
+ [ 5.36438396]
+ [ 5.61297956]
+ [ 5.30223506]
+ [ 5.42653286]
+ [ 5.28669783]
+ [ 5.64405401]
+ [ 5.83050071]
+ [ 5.45760731]
+ [ 5.48868176]]
+Enter the year to predict the value : 2020
+5.49287668235
+
+
+1.Predict Bangalore's Weather  2.Predict Mumbai's Weather  3.Predict Delhi's Weather  4.Predict Chennai's Weather  5.Predict Kolkata's Weather  6.Exit
+Enter the choice to Predict Weather : 
+3
+1.Avg Temp  2.Total Rainfall  3.Avg Windspeed  4.Number of days with rain  5.Number of days with Fog  6.Exit
+Enter the choice of target data : 
+4
+Few Predicted value for the test case : 
+[[ 58.82345555]
+ [ 57.66449021]
+ [ 59.05524862]
+ [ 58.59166248]
+ [ 57.43269714]
+ [ 59.51883476]
+ [ 58.35986941]
+ [ 59.28704169]
+ [ 58.24397288]
+ [ 59.98242089]
+ [ 57.08500753]
+ [ 58.93935208]
+ [ 56.6214214 ]
+ [ 57.54859367]
+ [ 56.50552486]
+ [ 59.17114515]
+ [ 60.56190357]
+ [ 57.78038674]
+ [ 58.01217981]]
+Enter the year to predict the value : 2020
+57.2527628843
+
+
+1.Predict Bangalore's Weather  2.Predict Mumbai's Weather  3.Predict Delhi's Weather  4.Predict Chennai's Weather  5.Predict Kolkata's Weather  6.Exit
+Enter the choice to Predict Weather : 
+3
+1.Avg Temp  2.Total Rainfall  3.Avg Windspeed  4.Number of days with rain  5.Number of days with Fog  6.Exit
+Enter the choice of target data : 
+5
+Few Predicted value for the test case : 
+[[ 40.8172932 ]
+ [ 56.77265   ]
+ [ 37.62622184]
+ [ 44.00836456]
+ [ 59.96372136]
+ [ 31.24407913]
+ [ 47.19943592]
+ [ 34.43515048]
+ [ 48.7949716 ]
+ [ 24.86193641]
+ [ 64.7503284 ]
+ [ 39.22175752]
+ [ 71.13247112]
+ [ 58.36818568]
+ [ 72.7280068 ]
+ [ 36.03068616]
+ [ 16.88425801]
+ [ 55.17711432]
+ [ 51.98604296]]
+Enter the year to predict the value : 2020
+78.4961155487
+
+
+
+
